@@ -24,15 +24,15 @@ Chess, satranç severlerin standart satranç düzeninin dışına çıkıp rekab
 * PC oyuncuları<br>
 
 # SPRINT 1
-* Sprint içi puan değerlendirmesi 8 olarak belirlenmiştir.
 * Puan tamamlama mantığı: Proje boyunca tamamlanması gereken backlog puanı 36'dır. İlk Sprint için bitirilmesi istenilen puan sayısı 12 olarak belirlenmiştir.
+* İlk sprint için değerlendirmemiz 8 puan olarak belirlenmiştir.
 * Daily Scrum: Discord üzerinden görüşmeler sağlanmıştır. Toplantılar sesli ortamda konuşmalar eşliğinde yapılmıştır.
 
 <h4> Sprint Review:</h4>
 
 * Oyun yapısı, yer alacak modellemeler, oynanabilirlik üzerine kararlar alındı.
 
-<h4> Sprint Review katılımcıları: Berkay YÜCEL, Ebrar ATAKLI, Celil Tarkan TEVETOĞLU </h4>
+* Sprint Review katılımcıları: Berkay YÜCEL, Ebrar ATAKLI, Celil Tarkan TEVETOĞLU
 
 <h4> Sprint Retrospective: </h4>
 
