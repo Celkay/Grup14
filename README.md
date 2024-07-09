@@ -7,10 +7,10 @@ U14 Unity Takımı
 * Ebrar ATAKLI - Scrum Master<br>
 
 # Oyun İsmi
-* Chess
+* Medieval Chess
 
 # Oyun Açıklaması
-Chess, satranç severlerin standart satranç düzeninin dışına çıkıp rekabetçi bir yapıya sahip 3D satranç oyunudur.
+Medieval Chess, satranç severlerin standart satranç düzeninin dışına çıkıp rekabetçi bir yapıya sahip 3D satranç oyunudur.
 
 # Oyun Özellikleri
 * 3D
