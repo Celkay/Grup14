@@ -28,7 +28,7 @@ Chess, satranç severlerin standart satranç düzeninin dışına çıkıp rekab
 * Puan tamamlama mantığı: Proje boyunca tamamlanması gereken backlog puanı 36'dır. İlk Sprint için bitirilmesi istenilen puan sayısı 12 olarak belirlenmiştir.
 * Daily Scrum: Discord üzerinden görüşmeler sağlanmıştır. Toplantılar sesli ortamda konuşmalar eşliğinde yapılmıştır.
 
-* Sprint Review:
+<h4> Sprint Review:</h4>
 
 * Oyun yapısı, yer alacak modellemeler, oynanabilirlik üzerine kararlar alındı.
 
