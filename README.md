@@ -29,6 +29,8 @@ Chess, satranç severlerin standart satranç düzeninin dışına çıkıp rekab
 * Daily Scrum: Discord üzerinden görüşmeler sağlanmıştır. Toplantılar sesli ortamda konuşmalar eşliğinde yapılmıştır.
 * Proje Yönetimi: Figma ve Jira üzerinden planlamalar yapılmıştır.
 
+![Ekran görüntüsü 2024-07-10 011348](https://github.com/Celkay/Grup14/assets/77544771/2b8c7082-e3f7-471a-9625-5461813946ba)
+
 <h4> Sprint Review:</h4>
 
 * Oyun yapısı, yer alacak modellemeler, oynanabilirlik üzerine kararlar alındı.
