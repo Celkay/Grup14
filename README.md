@@ -22,3 +22,21 @@ Chess, satranç severlerin standart satranç düzeninin dışına çıkıp rekab
 * Fantazi Türü Sevenler<br>
 * Satranç sevenler<br>
 * PC oyuncuları<br>
+
+# Sprint Review:
+
+* Oyun yapısı, yer alacak modellemeler, oynanabilirlik üzerine kararlar alındı.
+
+Sprint Review katılımcıları: Berkay YÜCEL, Ebrar ATAKLI, Celil Tarkan TEVETOĞLU
+
+# Sprint Retrospective:
+
+* Roller ile ilgili düzenleme yapılmış, Scrum Master değişmiştir.
+
+* Oyun mekanikleri kararlaştırılmıştır.
+
+* Challenge mod üzerinde dinamikler kararlaştırılmıştır.
+
+* Karakter ve oyun tahtası belirlenmiştir.
+
+* Hareket aniamsyonları belirlenmiştir.
