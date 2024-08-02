@@ -48,3 +48,28 @@ Medieval Chess, satranç severlerin standart satranç düzeninin dışına çık
 * Karakter ve oyun tahtası belirlenmiştir.
 
 * Hareket aniamsyonları belirlenmiştir.
+
+
+# SPRINT 3
+
+* Puan tamamlama mantığı: 3. sprint için bitirilmesi istenilen puan sayısı 12 olarak belirlenmiştir.
+
+* sprint için değerlendirmemiz 10 puan olarak belirlenmiştir.
+
+* Daily Scrum: Toplantılar Discord üzerinden görüşmeler ile sağlanılmıştır. Toplantılar sesli ortamda konuşmalar eşliğinde yapılmıştır.
+
+* Proje Yönetimi: Figma ve Jira üzerinden planlamalara devam edildi.
+
+![image1](https://github.com/user-attachments/assets/8b61c4aa-ad87-43d2-8bbe-566b9d4aca2b)
+
+![image](https://github.com/user-attachments/assets/bb4a71ad-2693-4d93-b459-2303802c4410)
+
+<h4> Sprint Review:</h4>
+
+*Level tasarımı, kodlamalar, mekanikler, 3d tasarım assetleri entegrasyonu, karakter uyarlamaları yapılmıştır.
+
+*Toplamda 18 backlog puanı tamamlanmıştır.
+
+*Yoğun bir süreç sonrası takım üyeleri birbirini tebrik etti.
+
+*Sprint Review katılımcıları: Berkay YÜCEL, Ebrar ATAKLI, Celil Tarkan TEVETOĞLU
